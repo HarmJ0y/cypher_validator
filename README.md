@@ -1,4 +1,4 @@
-# cypher_valuidator
+# cypher_validator
 Simple Python valuidator for Cypher query syntax.
 
 Install the Python ANTLR library with `antlr4-python3-runtime==4.9.2` (reflected in requirements.txt).

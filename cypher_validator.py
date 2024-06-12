@@ -41,6 +41,6 @@ def validate_query(query):
 
 if __name__ == "__main__":
     query = """
-...example query...
+MATCH p = asdf
 """
     validate_query(query)
